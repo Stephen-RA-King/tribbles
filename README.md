@@ -49,7 +49,6 @@ pip install tribbles
 put some steps here
 ```
 
-
 ## Usage example
 
 ---
