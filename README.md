@@ -43,6 +43,13 @@ Windows:
 pip install tribbles
 ```
 
+## Quick start
+
+```sh
+put some steps here
+```
+
+
 ## Usage example
 
 ---
