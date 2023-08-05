@@ -49,7 +49,6 @@ pip install tribbles
 put some steps here
 ```
 
-
 ## Usage example
 
 ---
@@ -81,9 +80,7 @@ pip install --editable tribbles
 
 [**Wiki**](https://github.com/Stephen-RA-King/tribbles/wiki)
 
-
 ## FAQ
-
 
 ## Meta
 
