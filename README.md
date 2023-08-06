@@ -74,6 +74,14 @@ pip install --editable tribbles
 
 [**Wiki**](https://github.com/Stephen-RA-King/tribbles/wiki)
 
+
+
+## FAQ
+Q
+A
+
+
+
 ## Meta
 
 ---
