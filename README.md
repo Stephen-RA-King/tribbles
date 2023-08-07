@@ -81,6 +81,10 @@ Q
 A
 
 
+## Plugins
+put your plugins here
+
+
 
 ## Meta
 
